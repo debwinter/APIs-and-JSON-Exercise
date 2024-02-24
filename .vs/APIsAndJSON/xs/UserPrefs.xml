@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIsAndJSON/Program.cs">
+    <Files>
+      <File FileName="APIsAndJSON/Program.cs" Line="10" Column="1" />
+      <File FileName="APIsAndJSON/OpenWeatherMapAPI.cs" Line="37" Column="196" />
+      <File FileName="APIsAndJSON/RonVSKanyeAPI.cs" Line="14" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="APIsAndJSON">
+            <Node name="APIsAndJSON">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.APIsAndJSON PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
